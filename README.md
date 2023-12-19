@@ -1,2 +1,2 @@
-# awesome-officejs
-A list of awesome things related to Office JavaScript
+# Awesome Office.JS
+A list of awesome things related to Office.JS
